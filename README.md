@@ -1,5 +1,5 @@
   
-# PancakeSwap Prediction SmartBot
+# 🔮 PancakeSwap Prediction SmartBot
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
@@ -37,7 +37,7 @@ BET_AMOUNT: 5, // Amount of each bet (In USD)
 DAILY_GOAL: 20, // Total profit you are aiming to earn (In USD)
 ```
 4. Start the bot using `npm start` or `yarn start`
-5. Enjoy!
+5. 🔮 Enjoy!
 
 ### 🔓 How to convert seed phrase to Private Key
 A lot of wallets don't provide you the private key, but just the **seed phrase** ( 12 words ). So here you will learn how to convert that to a private key:
