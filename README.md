@@ -52,9 +52,10 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
 - Before every round the bot will check if you have enough balance in your wallet and if you have reached the daily goal.
 - Also it will save the daily history in the **/history** directory.
 - Be aware that after consecutive losses, statistically you have more chances to win in the next one.
+- Inside **bot.js** in the ``THRESHOLD`` property of ``GLOBAL_CONFIG`` variable, you can configure the minimum certainty with which the bot will bet. For default it's set to 50, which means that from 50% certainty the bot will bet. You can raise it (50-100) to bet only when the bot is more sure about its prediction.
 
 
-You can check the history of the rounds played here: https://pancakeswap.finance/prediction
+You can check the history of rounds and claim rewards here: https://pancakeswap.finance/prediction
 
 ## ✔️ To Do
 
