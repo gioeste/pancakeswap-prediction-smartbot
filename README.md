@@ -3,7 +3,7 @@
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
-PancakeSwap Prediction Bot using live TradingView recomendations. **~70% Win rate**.
+PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
 
 ## ⭐Please consider giving a **star**.
 
@@ -29,7 +29,7 @@ Then run the following commands in terminal:
 
 1. Open the **.env** file with any code/text editor and add your private key like so:
 ```
-PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8cuxcppyqmuekj54
+PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8cuxcppyqmuekj54btyd
 ```
 3. Open the **bot.js** file and setup the following variables:
 ```
