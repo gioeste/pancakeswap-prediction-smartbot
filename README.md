@@ -64,6 +64,7 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
  - [x] Show real time profit
  - [x] Show real time win rate
  - [x] Daily goal profit
+ - [ ] Simplify settings
  - [ ] Auto collect winnings
  - [ ] AI Driven bot
  - [ ] Stop loss
