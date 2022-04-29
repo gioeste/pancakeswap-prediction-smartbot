@@ -58,16 +58,16 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
 
 💰You can check the history of rounds and claim rewards here: https://pancakeswap.finance/prediction
 
-## ✔️ To Do
+## ✔️ To Do 
 
- - [x] USD Based bet
- - [x] Show real time profit
- - [x] Show real time win rate
- - [x] Daily goal profit
- - [ ] Simplify settings
- - [ ] Auto collect winnings
- - [ ] AI Driven bot
- - [ ] Stop loss
+ - [x] USD Based bet 
+ - [x] Show real time profit 
+ - [x] Show real time win rate 
+ - [x] Daily goal profit 
+ - [ ] Simplify settings 
+ - [ ] Auto collect winnings 
+ - [ ] AI Driven bot 
+ - [ ] Stop loss 
 
 ## 👁️ Disclaimers
 
