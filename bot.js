@@ -87,7 +87,7 @@ const strategy = async (minAcurracy, epoch) => {
     let BNBPrice
     let earnings = await getStats()
     if (earnings.profit_USD >= GLOBAL_CONFIG.DAILY_GOAL) {
-        console.log("🧞 Daily goal reached. Shuting down... ✨ ")
+        console.log("🧞 Daily goal reached. Shuting down... ✨")
         process.exit()
     }
     try {
